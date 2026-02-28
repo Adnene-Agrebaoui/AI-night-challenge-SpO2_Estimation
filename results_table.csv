@@ -1,0 +1,6 @@
+Model,MAE (%),RMSE (%),RÂ²,Stability (Î”%),Out-of-range (%)
+Approach 1” MLP (Unconstrained),1.71,2.334,0.2633,2.819000006,0.97
+Approach 2” MLP (Constrained),0.828,1.049,0.8513,2.559999943,0
+Ridge Regression,0.92,1.153,0.8203,2.693,5.99
+Random Forest,0.831,1.045,0.8523,2.45,0
+Gradient Boosting,0.832,1.043,0.8529,2.444,0
